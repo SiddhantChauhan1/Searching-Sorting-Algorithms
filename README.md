@@ -4,6 +4,7 @@
 <h2> Searching </h2>
 <ol>
   <li><b> Linear Search </b> 
+  <p>Simplest searching Algorithm, each element of the array is iterated one by one until the target element is found.</p>
   <table>
     <tr>
       <th>Worst Case</th>
