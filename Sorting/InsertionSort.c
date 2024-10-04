@@ -1,5 +1,5 @@
 // Insertion Sort
-// Time Complexity: O(n^2)
+// Time Complexity: W: O(n^2) | B: O(n)
 
 #include <stdio.h>
 
