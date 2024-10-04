@@ -4,34 +4,35 @@
 <h2> Searching </h2>
 <ol>
   <li><b> Linear Search </b> 
-  <p>Simplest searching Algorithm, each element of the array is iterated one by one until the target element is found.</p>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O(n)</td>
-      <td>O(n)</td>
-      <td>O(1)</td>
-    </tr>
-  </table>
+    <p>Simplest searching Algorithm, each element of the array is iterated one by one until the target element is found.</p>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O(n)</td>
+        <td>O(n)</td>
+        <td>O(1)</td>
+      </tr>
+    </table>
   </li>
 
   <li><b> Binary Search </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O(log n)</td>
-      <td>O(log n)</td>
-      <td>O(1)</td>
-    </tr>
-  </table>
+    <table>
+      <p>Faster than Linear Search, but works only on sorted arrays.</p>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O(log n)</td>
+        <td>O(log n)</td>
+        <td>O(1)</td>
+      </tr>
+    </table>
   </li>
 </ol>
 
