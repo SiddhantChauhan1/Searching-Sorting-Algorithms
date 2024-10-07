@@ -21,7 +21,7 @@
 
   <li><b> Binary Search </b>
     <table>
-      <p>Faster than Linear Search, but works only on sorted arrays.</p>
+      <p>Faster than Linear Search, but works only on sorted arrays</p>
       <tr>
         <th>Worst Case</th>
         <th>Average Case</th>
