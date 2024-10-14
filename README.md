@@ -20,8 +20,8 @@
   </li>
 
   <li><b> Binary Search </b>
+    <p>Faster than Linear Search, but works only on sorted arrays</p>
     <table>
-      <p>Faster than Linear Search, but works only on sorted arrays</p>
       <tr>
         <th>Worst Case</th>
         <th>Average Case</th>
