@@ -39,7 +39,8 @@
 
 <h2> Sorting </h2>
 <ol>
-  <li><b> Bubble Sort </b> 
+  <li><b> Bubble Sort </b>
+    <p> Starts with the first element, if it it larger than the element after it, they are swapped </p>
   <table>
     <tr>
       <th>Worst Case</th>
