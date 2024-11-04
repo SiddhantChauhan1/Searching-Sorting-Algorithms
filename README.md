@@ -33,6 +33,7 @@
         <td>O(1)</td>
       </tr>
     </table>
+    <p>In place, O(1) Space complexity</p>
   </li>
 </ol>
 
