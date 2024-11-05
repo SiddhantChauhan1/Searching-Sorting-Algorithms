@@ -33,7 +33,6 @@
         <td>O(1)</td>
       </tr>
     </table>
-    <p>In place, O(1) Space complexity</p>
   </li>
 </ol>
 
@@ -42,18 +41,19 @@
 <ol>
   <li><b> Bubble Sort </b>
     <p> Starts with the first element, if the next element is smaller than it, they are swapped. Repeats loop n times. Simple but has higher time complexity. </p>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O(n²)</td>
-      <td>O(n²)</td>
-      <td>O(n)</td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O(n²)</td>
+        <td>O(n²)</td>
+        <td>O(n)</td>
+      </tr>
+    </table>
+    <p>In place, O(1) Space complexity</p>
   </li>
   
    <li><b> Insertion Sort </b>
