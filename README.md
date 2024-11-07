@@ -56,19 +56,20 @@
     <p>In place, O(1) Space complexity</p>
   </li>
   
-   <li><b> Insertion Sort </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O(n²)</td>
-      <td>O(n²)</td>
-      <td>O(n)</td>
-    </tr>
-  </table>
+  <li><b> Insertion Sort </b>
+    <p> Simple but has higher time complexity. </p>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O(n²)</td>
+        <td>O(n²)</td>
+        <td>O(n)</td>
+      </tr>
+    </table>
   </li>
 
   <li><b> Selection Sort </b>
