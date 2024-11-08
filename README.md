@@ -70,6 +70,7 @@
         <td>O(n)</td>
       </tr>
     </table>
+    <p>In place, O(1) Space complexity</p>
   </li>
 
   <li><b> Selection Sort </b>
