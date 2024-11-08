@@ -74,62 +74,62 @@
   </li>
 
   <li><b> Selection Sort </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O(n²)</td>
-      <td>O(n²)</td>
-      <td>O(n²)</td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O(n²)</td>
+        <td>O(n²)</td>
+        <td>O(n²)</td>
+      </tr>
+    </table>
   </li>
 
   <li><b> Merge Sort </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O( nlogn )</td>
-      <td>O( nlogn )</td>
-      <td>O( nlogn )</td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O( nlogn )</td>
+        <td>O( nlogn )</td>
+        <td>O( nlogn )</td>
+      </tr>
+    </table>
   </li>
 
   <li><b> Quick Sort </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O( )</td>
-      <td>O( )</td>
-      <td>O( )</td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O( )</td>
+        <td>O( )</td>
+        <td>O( )</td>
+      </tr>
+    </table>
   </li>
 
   <li><b> Heap Sort </b>
-  <table>
-    <tr>
-      <th>Worst Case</th>
-      <th>Average Case</th>
-      <th>Best Case</th>
-    </tr>
-    <tr>
-      <td>O( )</td>
-      <td>O( )</td>
-      <td>O( )</td>
-    </tr>
-  </table>
+    <table>
+      <tr>
+        <th>Worst Case</th>
+        <th>Average Case</th>
+        <th>Best Case</th>
+      </tr>
+      <tr>
+        <td>O( )</td>
+        <td>O( )</td>
+        <td>O( )</td>
+      </tr>
+    </table>
   </li>
 </ol>
