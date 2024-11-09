@@ -57,7 +57,7 @@
   </li>
   
   <li><b> Insertion Sort </b>
-    <p> Simple but has higher time complexity. </p>
+    <p> For each element in the array, keeps shifting it to the left until a smaller number is encountered. Simple but has higher time complexity. </p>
     <table>
       <tr>
         <th>Worst Case</th>
