@@ -74,6 +74,7 @@
   </li>
 
   <li><b> Selection Sort </b>
+    <p>  </p>
     <table>
       <tr>
         <th>Worst Case</th>
