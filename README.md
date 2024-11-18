@@ -74,7 +74,7 @@
   </li>
 
   <li><b> Selection Sort </b>
-    <p>  </p>
+    <p> Selects the smallest element in the array and puts it in the first place. In the next iteration, selects the next smallest element and puts it in the second position. Does the same for every element </p>
     <table>
       <tr>
         <th>Worst Case</th>
