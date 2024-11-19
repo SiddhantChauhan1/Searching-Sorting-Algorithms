@@ -40,7 +40,7 @@
 <h2> Sorting </h2>
 <ol>
   <li><b> Bubble Sort </b>
-    <p> Starts with the first element, if the next element is smaller than it, they are swapped. Repeats loop n times. Simple but has higher time complexity. </p>
+    <p> Starts with the first element, if it's bigger than the next element, they are swapped. Repeats loop n times. Simple but has higher time complexity. </p>
     <table>
       <tr>
         <th>Worst Case</th>
