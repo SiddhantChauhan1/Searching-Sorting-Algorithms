@@ -103,6 +103,7 @@
         <td>O( nlogn )</td>
       </tr>
     </table>
+    <p> O(n) Space Complexity </p>
   </li>
 
   <li><b> Quick Sort </b>
