@@ -1,5 +1,5 @@
 <h1> Searching and Sorting Algorithms </h1>
-<p> Algorithms for Searching and Sorting elements in an array in C language along with their respective space and time complexities.</p>
+<p> Algorithms for Searching and Sorting elements in an array in C language along with their respective space and time complexities</p>
 
 <h2> Searching </h2>
 <ol>
