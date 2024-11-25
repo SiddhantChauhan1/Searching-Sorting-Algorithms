@@ -91,6 +91,7 @@
   </li>
 
   <li><b> Merge Sort </b>
+    <p></p>
     <table>
       <tr>
         <th>Worst Case</th>
