@@ -91,7 +91,7 @@
   </li>
 
   <li><b> Merge Sort </b>
-    <p></p>
+    <p> Keeps dividing the Array; after completely dividing, sorts the single elemet arrays by comparing and merges them one by one </p>
     <table>
       <tr>
         <th>Worst Case</th>
