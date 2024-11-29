@@ -91,7 +91,7 @@
   </li>
 
   <li><b> Merge Sort </b>
-    <p> Keeps dividing the Array; after completely dividing, compares the single elements and merges them one by one. Faster sorting at the cost of some extra memory. </p>
+    <p> Keeps dividing the Array; after completely dividing, compares the single elements and merges them into a single sorted array one by one. Faster sorting at the cost of some extra memory. </p>
     <table>
       <tr>
         <th>Worst Case</th>
