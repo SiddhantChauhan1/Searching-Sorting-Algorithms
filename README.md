@@ -115,7 +115,7 @@
         <th>Best Case</th>
       </tr>
       <tr>
-        <td>O( )</td>
+        <td>O(nlogn)</td>
         <td>O(nlogn)</td>
         <td>O(nlogn)</td>
       </tr>
