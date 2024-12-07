@@ -120,7 +120,7 @@
         <td>O(nlogn)</td>
       </tr>
     </table>
-    <p>  </p>
+    <p> O(1) Space </p>
   </li>
 
   <li><b> Heap Sort </b>
