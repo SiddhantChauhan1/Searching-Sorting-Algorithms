@@ -120,7 +120,7 @@
         <td>O(nlogn)</td>
       </tr>
     </table>
-    <p> O(1) Space Complexity </p>
+    <p> O(1) Space Complexity ( In-place ) </p>
   </li>
 
   <li><b> Heap Sort </b>
